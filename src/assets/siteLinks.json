@@ -16,8 +16,8 @@
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "name": "卡网：一键换肤",
+    "link": "https://zsjyf.cc/"
   },
   {
     "icon": "Book",
@@ -26,12 +26,12 @@
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "name": "影视大全",
+    "link": "https://hot.yh.top/"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "link": "https://status.cc.top/"
   }
 ]
